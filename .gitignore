@@ -1,4 +1,8 @@
 
 
-!.gitignore
-!src/*
+
+/lib
+/libs
+/out
+/.idea
+AdentOfCode2021.iml
